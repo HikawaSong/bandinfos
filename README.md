@@ -1,0 +1,1 @@
+This project is a web scraper that fetches live event information for a specified artist and saves the data into a CSV file. Simply provide the artist's page URL, and it will extract all relevant event information and store it.
