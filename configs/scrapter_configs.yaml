@@ -1,0 +1,4 @@
+base_url: "https://www.livefans.jp/search/artist/94247"
+csv_file: "live_events.csv"
+encoding: "utf-8-sig"
+retry_count: 3
